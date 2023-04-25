@@ -1,0 +1,7 @@
+Leave
+Right
+Ignore
+Sword
+Attack
+Stairs
+Congrats, you didn't die
